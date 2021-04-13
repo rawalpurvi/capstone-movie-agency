@@ -1,1 +1,1 @@
-web: ng build --prod --port $port --nobrowser --nolivereload --noopen
+web: npm run build && npm start
