@@ -1,6 +1,7 @@
-* @DONE replace with your variables
+/* @DONE replace with your variables
  * ensure all variables on this page match your project
  */
+ 
 export const environment = {
   production: true,
   apiServerUrl: 'https://capstone-agency-backend.herokuapp.com', // the running FLASK api server url
