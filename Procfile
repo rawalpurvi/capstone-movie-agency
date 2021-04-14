@@ -1,1 +1,1 @@
-web: npm install -g npm-install-peers && ionic build --prod --port $port --nobrowser --nolivereload --noopen
+web: npm cache clean --force && npm install -g ionic && ionic build --prod --port $port --nobrowser --nolivereload --noopen
