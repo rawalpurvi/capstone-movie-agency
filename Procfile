@@ -1,1 +1,1 @@
-web: npm install -g @angular/cli && npx ionic build --prod --nobrowser --nolivereload --noopen
+web: npm install -g @angular/cli && npx ionic build --prod --port '0.0.0.0' --nobrowser --nolivereload --noopen
