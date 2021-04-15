@@ -1,9 +1,9 @@
 /* @DONE replace with your variables
  * ensure all variables on this page match your project
  */
- 
+
 export const environment = {
-  production: true,
+  production: false,
   apiServerUrl: 'https://capstone-agency-backend.herokuapp.com', // the running FLASK api server url
   auth0: {
     url: 'purvi-udacity.us', // the auth0 domain prefix
