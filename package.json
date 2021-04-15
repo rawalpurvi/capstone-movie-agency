@@ -64,7 +64,7 @@
     "npm": "6.14.8"
   },
   "scripts": {
-    "build": "npm install --save @angular-devkit/build-angular && npm install -g @angular/cli && npx ionic build --prod"
+    "build": "npm install -g @angular/cli"
   },
   "description": "An Ionic project"
 }
