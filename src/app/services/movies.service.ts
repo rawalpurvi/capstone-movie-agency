@@ -39,6 +39,7 @@ export class MoviesService {
   }
 
   getMovies() {
+    print(this.url);
     this.http.get(this.url + '/movies', this.getHeaders())
     .subscribe((res: any) => {
       this.moviesToItems(res.movies);
