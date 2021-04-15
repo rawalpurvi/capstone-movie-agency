@@ -1,1 +1,1 @@
-web: npm cache clean --force && npm install -g @angular/cli && npx ionic build --prod
+web: ionic serve --port $PORT --host '0.0.0.0' --nobrowser --nolivereload --noopen
