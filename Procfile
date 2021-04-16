@@ -1,1 +1,1 @@
-web: npm cache clean --force && ionic serve --port $PORT --host '0.0.0.0' --no-livereload --no-open
+web: ionic serve --port $PORT --host '0.0.0.0' --no-livereload --no-open
