@@ -1,1 +1,1 @@
-web: ionic serve --port $PORT --no-livereload --no-open
+web: ionic serve --max_old_space_size=2560 --port $PORT --no-livereload --no-open
