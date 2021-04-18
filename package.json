@@ -21,6 +21,8 @@
     "@angular/platform-browser": "^11.2.6",
     "@angular/platform-browser-dynamic": "^11.2.6",
     "@angular/router": "^11.2.6",
+    "@angular/cli": "^11.2.5",
+    "@angular/compiler-cli": "~11.2.6",
     "@auth0/angular-jwt": "^2.1.0",
     "@ionic-native/core": "^5.0.0",
     "@ionic-native/splash-screen": "^5.0.0",
