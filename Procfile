@@ -1,1 +1,1 @@
-web: ng serve --port $PORT --host 0.0.0.0 --no-open
+web: ng serve --port $PORT --host 0.0.0.0 --disable-host-check --no-open
